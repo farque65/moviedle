@@ -200,5 +200,85 @@ export const MOVIE_DATABASE: Movie[] = [
             "genre": ["Comedy", "Drama", "Music"],
             "actors": ["Ryan Gosling", "Emma Stone", "Rosemarie DeWitt"],
             "director": "Damien Chazelle"
+          },
+          {
+            "id": 26,
+            "title": "Iron Man",
+            "year": 2008,
+            "genre": ["Action", "Sci-Fi", "Adventure"],
+            "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges"],
+            "director": "Jon Favreau"
+          },
+          {
+            "id": 27,
+            "title": "The Avengers",
+            "year": 2012,
+            "genre": ["Action", "Sci-Fi", "Adventure"],
+            "actors": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+            "director": "Joss Whedon"
+          },
+          {
+            "id": 28,
+            "title": "Black Panther",
+            "year": 2018,
+            "genre": ["Action", "Adventure", "Sci-Fi"],
+            "actors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+            "director": "Ryan Coogler"
+          },
+          {
+            "id": 29,
+            "title": "Avengers: Infinity War",
+            "year": 2018,
+            "genre": ["Action", "Adventure", "Sci-Fi"],
+            "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+            "director": "Anthony and Joe Russo"
+          },
+          {
+            "id": 30,
+            "title": "Spider-Man: No Way Home",
+            "year": 2021,
+            "genre": ["Action", "Adventure", "Fantasy"],
+            "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+            "director": "Jon Watts"
+          },
+          {
+            "id": 31,
+            "title": "Thor: Ragnarok",
+            "year": 2017,
+            "genre": ["Action", "Adventure", "Comedy"],
+            "actors": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett"],
+            "director": "Taika Waititi"
+          },
+          {
+            "id": 32,
+            "title": "Captain America: Civil War",
+            "year": 2016,
+            "genre": ["Action", "Adventure", "Sci-Fi"],
+            "actors": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson"],
+            "director": "Anthony and Joe Russo"
+          },
+          {
+            "id": 33,
+            "title": "Guardians of the Galaxy",
+            "year": 2014,
+            "genre": ["Action", "Adventure", "Comedy"],
+            "actors": ["Chris Pratt", "Zoe Saldana", "Dave Bautista"],
+            "director": "James Gunn"
+          },
+          {
+            "id": 34,
+            "title": "Doctor Strange",
+            "year": 2016,
+            "genre": ["Action", "Adventure", "Fantasy"],
+            "actors": ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams"],
+            "director": "Scott Derrickson"
+          },
+          {
+            "id": 35,
+            "title": "Avengers: Endgame",
+            "year": 2019,
+            "genre": ["Action", "Adventure", "Drama"],
+            "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+            "director": "Anthony and Joe Russo"
           }
   ];
